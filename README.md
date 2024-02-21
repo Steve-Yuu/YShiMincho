@@ -1,2 +1,26 @@
-# YShi-
+# YShiMincho(Y式明朝體/Y式宋體）
 一款衍生於“華英明朝”、“IPAmj明朝”、“霞鶩新致宋”的字體，以舊字形筆畫爲主
+## 簡介
+本字體是基於 [IPAmj明朝](https://moji.or.jp/mojikiban/font/) 、華英明朝，並借用一點明朝，修改的中文開源字體。字體以傳統字形爲主，基於IPAmj明朝修改的舊字形字體目前有華英明朝、一點明朝。雖然如此，但是並不是完全符合一些人的口味，本字體修改方式是將兩者取長補短、根據自己喜好再修改個別字符。
+### 字符集
+1. IPAMJ原有字形
+2. 一點明朝所新增的字符，如《通用規範漢字表》收錄，但IPAMJ明朝沒收的簡、繁體字符以及個別方言用字
+3. lxgw文楷所收錄漢字
+4. YShi書體收錄字符（是否補全HKSCS，後續再説，本字體並未完全收錄hkscs的字符）
+5. Adobe-JP字符（參考思源黑體JP所收錄字符，個別字JMJ沒收，故補充之）
+## 注意
+1. 本字體着重收錄漢字區，至於符號區待定
+2. 個別簡體字由於來自於一點明朝，字形可能較爲奇怪，後續計劃更改、版本分流等等
+3. 個別字由於現成部件沒有合適的比例、或者缺乏現成部件，故有些字存在機械擠壓而造成粗糙，由於本人技術有限，只能略微調整、使其勉强具有美感
+4. 本字體並不完全符合《傳承字形推薦形體表》，係個人參照之並結合諸多流傳的舊字形寫法，根據個人喜好取捨之，後續可能會字形分流【參考一點明體分爲正體和異體兩個字形版本（此處不含新一點明體以及一點明體CP系列分流）、華英明朝分爲三種字形版本等等】
+5. 不計劃推出多字重
+6. 有問題和建議，歡迎提出ISSUE
+7. 標點符號居中版本後續計劃推出，但由於個人精力有限，尚未推出之
+## 授權
+采用IPA授權（IPA Font License 1.0, IPAフォントライセンスv1.0），使用本字體亦需要遵從其授權。
+## 鳴謝
+- [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) *by Takao Hayashi*
+- [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
+- [一点明體 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
+- [華英明朝/HuayingMincho](https://github.com/GuiWonder/HuayingMincho/) *by GuiWonder*
+- [霞鶩新致宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/) *by 落霞孤鶩 / lxgw*
