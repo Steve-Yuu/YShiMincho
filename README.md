@@ -1,5 +1,5 @@
 # YShiMincho（Y式明朝體/Y式宋體）
-一款衍生於“華英明朝”、“IPAmj明朝”、“霞鶩新致宋”的字體，以舊字形筆畫爲主
+一款衍生於“華英明朝”、“IPAmj明朝”、“霞鶩新緻宋”的字體，以舊字形筆畫爲主
 ## 簡介
 本字體是基於 [IPAmj明朝](https://moji.or.jp/mojikiban/font/) 、華英明朝，並借用一點明朝，修改的中文開源字體。字體以傳統字形爲主，基於IPAmj明朝修改的舊字形字體目前有華英明朝、一點明朝。雖然如此，但是並不是完全符合一些人的口味，本字體修改方式是將兩者取長補短、根據自己喜好再修改個別字符。
 ### 字符集
@@ -23,4 +23,4 @@
 - [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
 - [一点明體 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 - [華英明朝/HuayingMincho](https://github.com/GuiWonder/HuayingMincho/) *by GuiWonder*
-- [霞鶩新致宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/) *by 落霞孤鶩 / lxgw*
+- [霞鶩新緻宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/) *by 落霞孤鶩 / lxgw*
