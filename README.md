@@ -1,13 +1,18 @@
+**正體中文** 簡體中文
 # YShiMincho（Y式明朝體/Y式宋體）
 一款衍生於“華英明朝”、“IPAmj明朝”、“霞鶩新緻宋”的字體，以舊字形筆畫爲主
 ## 簡介
 本字體是基於 [IPAmj明朝](https://moji.or.jp/mojikiban/font/) 、華英明朝，並借用一點明朝，修改的中文開源字體。字體以傳統字形爲主，基於IPAmj明朝修改的舊字形字體目前有華英明朝、一點明朝。雖然如此，但是並不是完全符合一些人的口味，本字體修改方式是將兩者取長補短、根據自己喜好再修改個別字符。
+## 概覽
+![YShi明朝2](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D2.png)
+![YShi明朝1](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D1.png)
 ### 字符集
-1. IPAMJ原有字形
-2. 一點明朝所新增的字符，如《通用規範漢字表》收錄，但IPAMJ明朝沒收的簡、繁體字符以及個別方言用字
+1. IPAMJ原有字形（計劃後續將字統拆成兩部分，來收錄這部分字符）
+2. 一點明朝所新增的字符，如《通用規範漢字表》收錄，但IPAMJ明朝沒有收的簡、繁體字符以及個別方言用字
 3. lxgw文楷所收錄漢字
-4. YShi書體收錄字符（是否補全HKSCS，後續再説，本字體並未完全收錄hkscs的字符）
+4. YShi筆書體收錄字符（是否補全HKSCS，後續再説，本字體並未完全收錄hkscs的字符）
 5. Adobe-JP字符（參考思源黑體JP所收錄字符，個別字JMJ沒收，故補充之）
+6. 委班復生越南所收部分喃字
 ## 注意
 1. 本字體着重收錄漢字區，至於符號區待定
 2. 個別簡體字由於來自於一點明朝，字形可能較爲奇怪，後續計劃更改、版本分流等等
@@ -24,3 +29,10 @@
 - [一点明體 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 - [華英明朝/HuayingMincho](https://github.com/GuiWonder/HuayingMincho/) *by GuiWonder*
 - [霞鶩新緻宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/) *by 落霞孤鶩 / lxgw*
+- [某網友魔改一點BMing](https://tieba.baidu.com/p/3734086477)
+## 相關工具&參考資料
+- 漢文博士
+- 康熙字典
+- [CharToUnicode](https://github.com/GuiWonder/CharToUnicode)
+- [字統網](https://zi.tools/)
+- [一點字坊](https://github.com/ichitenfont/)[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
