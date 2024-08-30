@@ -6,7 +6,7 @@
 ## 概覽
 ![YShi明朝2](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D2.png)
 ![YShi明朝1](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D1.png)
-### 字符集
+## 字符集
 1. IPAMJ原有字形（計劃後續將字統拆成兩部分，來收錄這部分字符）
 2. 一點明朝所新增的字符，如《通用規範漢字表》收錄，但IPAMJ明朝沒有收的簡、繁體字符以及個別方言用字
 3. lxgw文楷所收錄漢字
