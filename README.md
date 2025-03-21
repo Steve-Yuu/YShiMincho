@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/144f26c6-854b-4cc8-a19e-a806443c51c9)**正體中文** [簡體中文](README-SC.md)
+**正體中文** [簡體中文](README-SC.md)
 
 # YShiMincho（Y式明朝體/Y式宋體）
 一款衍生於“華英明朝”、“IPAmj明朝”、“霞鶩新緻宋”的字體，以舊字形筆畫爲主
