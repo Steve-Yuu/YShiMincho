@@ -48,5 +48,5 @@
 - 康熙字典
 - [CharToUnicode](https://github.com/GuiWonder/CharToUnicode)
 - [字统网](https://zi.tools/)
-- [一点字坊](https://github.com/ichitenfont/)[传承字形标准化文件](https://github.com/ichitenfont/inheritedglyphs)及[一点明体](https://github.com/ichit
+- [一点字坊](https://github.com/ichitenfont/)[传承字形标准化文件](https://github.com/ichitenfont/inheritedglyphs)及[一点明体](https://github.com/ichitenfont/I.Ming)
 
