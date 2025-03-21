@@ -1,4 +1,4 @@
-**正體中文** [簡體中文](README-SC.md)
+![image](https://github.com/user-attachments/assets/144f26c6-854b-4cc8-a19e-a806443c51c9)**正體中文** [簡體中文](README-SC.md)
 
 # YShiMincho（Y式明朝體/Y式宋體）
 一款衍生於“華英明朝”、“IPAmj明朝”、“霞鶩新緻宋”的字體，以舊字形筆畫爲主
@@ -24,6 +24,16 @@
 7. 標點符號本專案默認居中
 ## 授權
 采用IPA授權（IPA Font License 1.0, IPAフォントライセンスv1.0），使用本字體亦需要遵從其授權。
+依據協議，您可以：
+* 免費商用本字體，無論是個人還是商用，均無需告知原作者
+* 自由修改、分發、傳播
+* 將本字體安裝、嵌入
+但是，以下行爲您不可以做：
+* 使用本字體保留名稱（如<span lang="zh-cn">「YShi明朝体」</span>
+<span lang="ja-jp">「YShi明朝體」</span>
+ 或“YShiMincho”等）
+* 單獨售賣字體文件
+* 不可以在本協議之外的協議授權發行，以及用於任何違法行為
 ## 鳴謝
 - [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) *by Takao Hayashi*
 - [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
