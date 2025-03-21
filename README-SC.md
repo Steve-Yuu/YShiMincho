@@ -33,6 +33,8 @@
  或“YShiMincho”等）
 * 单独售卖字体文件
 * 不可以在本协议之外的协议授权发行，以及用于任何违法行为
+
+![YShi明朝2](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D2.PNG)
 ## 鸣谢
 - [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) *by Takao Hayashi*
 - [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
