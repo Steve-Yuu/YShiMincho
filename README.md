@@ -33,8 +33,8 @@
 <span lang="ja-jp">「YShi明朝體」</span>
  或“YShiMincho”等）
 * 單獨售賣字體文件
-* 不可以在本協議之外的協議授權發行，以及用於任何違法行為
-![YShi明朝](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D2.PNG）
+* 不可以在本協議之外的協議授權發行，以及用於任何違法行爲
+![YShi明朝2](https://github.com/Steve-Yuu/YShiMincho/blob/main/pictures/YShi%E6%98%8E%E6%9C%9D2.PNG）
 ## 鳴謝
 - [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) *by Takao Hayashi*
 - [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
