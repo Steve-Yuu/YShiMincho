@@ -38,7 +38,7 @@
 3. 將本字體安裝、嵌入
 - 但是，以下行爲您不可以做：
 1. 使用本字體保留名稱（如<span lang="zh-cn">「YShi明朝体」</span>
-<span lang="ja-jp">「YShi明朝體」</span>
+<span lang="zh-hk">「YShi明朝體」</span>
  或“YShiMincho”等）
 2. 單獨售賣字體文件
 3. 不可以在本協議之外的協議授權發行，以及用於任何違法行爲
