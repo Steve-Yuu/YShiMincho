@@ -41,7 +41,7 @@
 - [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
 - [一点明体 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 - [华英明朝/HuayingMincho](https://github.com/GuiWonder/HuayingMincho/) *by GuiWonder*
-- [霞鹜新致宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/)and霞鹜致宋 *by 落霞孤鹜 / lxgw*
+- [霞鹜新致宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/)＆[霞鹜致宋/LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong) *by 落霞孤鹜 / lxgw*
 - [某网友魔改一点BMing](https://tieba.baidu.com/p/3734086477)
 ## 相关工具&参考数据
 - 汉文博士
