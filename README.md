@@ -51,6 +51,7 @@
 - [華英明朝/HuayingMincho](https://github.com/GuiWonder/HuayingMincho/) *by GuiWonder*
 - [霞鶩新緻宋/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong/)＆[霞鶩緻宋/LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)  *by 落霞孤鶩 / lxgw*
 - [某網友魔改一點BMing](https://tieba.baidu.com/p/3734086477)
+- jisbig5協助製作異體版
 ## 相關工具&參考資料
 - 漢文博士
 - 康熙字典
