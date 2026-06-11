@@ -32,10 +32,10 @@
 7. 標點符號本專案默認居中
 8. 關於本字體的嵌入，詳見[「説明」](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E)
 ## 授權
-采用IPA授權（IPA Font License 1.0, IPAフォントライセンスv1.0），使用本字體亦需要遵從其授權。
-- 依據協議，您可以：
-1. 免費商用本字體，無論是個人還是商用，均無需告知原作者
-2. 自由修改、分發、傳播
+本字體在 IPA 所開發並發佈的 IPAmj明朝 基礎上衍生，依照 IPA開放字型授權條款 第1.0版（IPA Font License 1.0） 授權。使用本字體時，請遵從「IPA開放字型授權條款 第1.0版」（IPA Font License 1.0, IPAフォントライセンスv1.0）之規定。
+但凡有任何人使用、複製、修改、分發本字體，或對本字型進行任何符合 IPA Font License 1.0 規定的行爲，使用、下載或行使合約規定權利之接受方，亦視爲同意遵守 IPA Font License 1.0 的一切規定。
+根據 IPA Font License 1.0 有關條款，在沒有郵費、存儲媒介費用和手續費的情況下，須免費提供字體檔。後續衍生不可使用原始授權程式的名稱（包括程式名、檔案名、字體名），且須在相同許可下授權（故 IPA Font License 1.0 與 SIL OFL 1.1 不相容）。
+「IPA字體（IPA Font，IPAフォント）」爲日本「獨立行政法人情報處理推進機構」（簡稱「IPA」）的注册商標。
 - 但是，以下行爲您不可以做：
 1. 使用本字體保留名稱（如<span lang="zh-cn">「YShi明朝体」</span>
 <span lang="zh-hk">「YShi明朝體」</span>
