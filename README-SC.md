@@ -22,12 +22,12 @@
 5. 不计划推出多字重
 6. 有问题和建议，欢迎提出ISSUE
 7. 标点符号本项目默认居中
+8. 关于本字体嵌入，详情见[「说明」](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E)
 ## 授权
 采用IPA授权（IPA Font License 1.0, IPAフォントライセンスv1.0），使用本字体亦需要遵从其授权。
 - 依据协议，您可以：
 1. 免费商用本字体，无论是个人还是商用，均无需告知原作者
 2. 自由修改、分发、传播
-3. 将本字体安装、嵌入
 - 但是，以下行为您不可以做：
 1. 使用本字体保留名称（如<span lang="zh-cn">「YShi明朝体」</span>
 <span lang="ja-jp">「YShi明朝體」</span>
