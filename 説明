@@ -1,5 +1,0 @@
-## 關於YShi明朝系列的嵌入，請參考本文
-
-[（本文内容參考此處）](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)
-在 IPA Font License 1.0 授權條款下發佈。根據授權授權合約（日英雙語）及常見問題解答（FAQ）檔（日語），將 IPA 字體（包括其衍生字體）嵌入到硬體設備作業系統或應用程式的行爲構成對字體的再分發，應附上授權合約；此外，根據授權授權合約第 3 條第 1 款第 2 項，以及 FAQ §3.2.2（見本文附錄），對於衍生字體，還應提供將其恢復爲 IPA 原始授權字體的方法，讓使用者自願將其恢復爲原始字體，否則禁止再分發衍生字體。
-如果您要將該字型內嵌於 APP、硬體設備作業系統或網頁等，請在 APP、操作系統或網站的「開源許可」頁面中針對該字體附上 [IPA Font License 1.0](https://opensource.org/license/ipafont-html) 全文或 URL（https://opensource.org/licenses/ipa 或 https://moji.or.jp/ipafont/license ）。
