@@ -30,7 +30,7 @@
 5. 不計劃推出多字重
 6. 有問題和建議，歡迎提出ISSUE
 7. 標點符號本專案默認居中
-8. 關於本字體的嵌入，詳見「説明」
+8. 關於本字體的嵌入，詳見[「説明」](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E)
 ## 授權
 采用IPA授權（IPA Font License 1.0, IPAフォントライセンスv1.0），使用本字體亦需要遵從其授權。
 - 依據協議，您可以：
