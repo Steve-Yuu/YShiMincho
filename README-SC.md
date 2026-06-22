@@ -22,7 +22,7 @@
 5. 不计划推出多字重
 6. 有问题和建议，欢迎提出ISSUE
 7. 标点符号本项目默认居中
-8. 关于本字体嵌入，详情见[「说明」](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E)
+8. 关于本字体嵌入，详情见[「说明」](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E.md)
 ## 授权
 本字体在 IPA 所开发并发布的 IPAmj明朝 基础上衍生，依照 IPA开放字型授权条款 第1.0版（IPA Font License 1.0） 授权。使用本字体时，请遵从「IPA开放字型授权条款 第1.0版」（IPA Font License 1.0, IPAフォントライセンスv1.0）之规定。
 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
